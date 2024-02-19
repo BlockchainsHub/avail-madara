@@ -6,9 +6,7 @@ require (
 	github.com/NethermindEth/juno v0.9.4
 	github.com/NethermindEth/starknet.go v0.6.1
 	github.com/ethereum/go-ethereum v1.13.11
-)
 
-require (
 	github.com/Microsoft/go-winio v0.6.1 // indirect
 	github.com/bits-and-blooms/bitset v1.13.0 // indirect
 	github.com/consensys/bavard v0.1.13 // indirect
